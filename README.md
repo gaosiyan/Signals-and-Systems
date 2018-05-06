@@ -24,7 +24,9 @@
 
 ![r计算](https://github.com/gaosiyan/Signals-and-Systems/blob/master/image/Signals-and-Systems004.png?raw=true?raw=true) 
 
+
 &emsp;&emsp;注意点:
-* 函数的模平方等于自身的内积
+* 函数的模平方等于自身的内积;
+* 函数的模和内积要除以区间长度,而序列的不用.
 
 
