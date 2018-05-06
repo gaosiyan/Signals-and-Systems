@@ -11,5 +11,6 @@
 # 信号的相关性
 &emsp;&emsp;在信号处理中,经常要研究两个信号的相似性,或者一个信号经过一段时间延迟后自身的相似性,以便实现信号检测,识别与提取等.互相关描述两个信号之间(不同时刻)的相关性,自相关描述信号自身间(不同时刻)的相关性.信号的相关性记为`r`.
 &emsp;&emsp;对于两个函数(或信号)![](http://latex.codecogs.com/gif.latex?f(t))和![](http://latex.codecogs.com/gif.latex?g(t))的`r`计算如下:
-![](http://latex.codecogs.com/gif.latex? r = cos\theta =\frac{\left \langle f(t),g(t)\right\rangle}{||f(t)||*||g(t)||})
+
+![](http://latex.codecogs.com/gif.latex?r = cos\theta =\frac{\left \langle f(t),g(t)\right\rangle}{||f(t)||*||g(t)||})
 
