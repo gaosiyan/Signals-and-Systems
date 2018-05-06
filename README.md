@@ -14,4 +14,6 @@
 
 ![r计算](https://github.com/gaosiyan/Signals-and-Systems/blob/master/image/Signals-and-Systems002.png?raw=true?raw=true) 
 
-&emsp;&emsp;其中![](http://latex.codecogs.com/gif.latex?<f(t),g(t)>)是两个函数的内积,![](http://latex.codecogs.com/gif.latex?||f(t)||)是![](http://latex.codecogs.com/gif.latex?f(t))
+&emsp;&emsp;其中![](http://latex.codecogs.com/gif.latex?<f(t),g(t)>)是两个函数的内积,![](http://latex.codecogs.com/gif.latex?||f(t)||)是![](http://latex.codecogs.com/gif.latex?f(t))的模,按照内积和模的计算公式展开后:
+
+![r计算](https://github.com/gaosiyan/Signals-and-Systems/blob/master/image/Signals-and-Systems003.png?raw=true?raw=true) 
