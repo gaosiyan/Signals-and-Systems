@@ -14,3 +14,5 @@
 
 ![equation](http://latex.codecogs.com/gif.latex?r = cos\theta =\frac{\left \langle f(t),g(t)\right\rangle}{||f(t)||*||g(t)||})
 
+![](http://latex.codecogs.com/gif.latex?r = cos\theta =\frac{\left \langle f(t),g(t)\right\rangle}{||f(t)||*||g(t)||})
+
