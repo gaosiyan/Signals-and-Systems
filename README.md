@@ -17,3 +17,8 @@
 &emsp;&emsp;其中![](http://latex.codecogs.com/gif.latex?<f(t),g(t)>)是两个函数的内积,![](http://latex.codecogs.com/gif.latex?||f(t)||)是![](http://latex.codecogs.com/gif.latex?f(t))的模,按照内积和模的计算公式展开后:
 
 ![r计算](https://github.com/gaosiyan/Signals-and-Systems/blob/master/image/Signals-and-Systems003.png?raw=true?raw=true) 
+
+&emsp;&emsp;`r>0`正相关,`r=0`不相关,`r<0`负相关(方向不同),`r`越大相关性越强.
+&emsp;&emsp;对于序列`f`和`g`的相关性可以表示如下:
+
+![r计算](https://github.com/gaosiyan/Signals-and-Systems/blob/master/image/Signals-and-Systems004.png?raw=true?raw=true) 
