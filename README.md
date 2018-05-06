@@ -35,11 +35,11 @@
 &emsp;&emsp;`ZC`序列是`CAZAC`序列的一种:
 * 恒包络特性;任意长度的`CAZAC`序列幅值恒定;
 * 理想的周期自相关特性;任意`CAZAC`序列移位`n`位后,n不是CAZAC序列的周期的整倍数时,移位后的序列与原序列不相关,而且两个互质的`ZC`序列的互相关也接近于0;
-* 傅里叶变换后仍然是CAZAC序列;
+* 傅里叶变换后仍然是`CAZAC`序列;
 * 
 &emsp;&emsp;`ZC`序列的生成公式:
 
-![ZC计算公式](https://github.com/gaosiyan/Signals-and-Systems/blob/master/image/Signals-and-Systems004.png?raw=true?raw=true) 
+![ZC计算公式](https://github.com/gaosiyan/Signals-and-Systems/blob/master/image/Signals-and-Systems005.png?raw=true?raw=true) 
 
 
 
