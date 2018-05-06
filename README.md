@@ -23,3 +23,8 @@
 &emsp;&emsp;对于序列`f`和`g`的相关性可以表示如下:
 
 ![r计算](https://github.com/gaosiyan/Signals-and-Systems/blob/master/image/Signals-and-Systems004.png?raw=true?raw=true) 
+
+&emsp;&emsp;注意点:
+* 函数的模平方等于自身的内积
+
+
