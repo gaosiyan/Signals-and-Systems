@@ -13,3 +13,9 @@
 &emsp;&emsp;对于两个函数(或信号)![](http://latex.codecogs.com/gif.latex?f(t))和![](http://latex.codecogs.com/gif.latex?g(t))的`r`计算如下:
 
 ![r计算](https://github.com/gaosiyan/Signals-and-Systems/blob/master/image/Signals-and-Systems002.png?raw=true?raw=true) 
+
+&emsp;&emsp;其中![](http://latex.codecogs.com/gif.latex?\left\langle f(t),g(t)\right\rangle)是两个函数的内积,![](http://latex.codecogs.com/gif.latex?||f(t)||∣∣f(t)∣∣)
+
+其中`$$`是两个函数的内积,`$||f(t)||$`是函数`$f(t)$`的模,按照内积和模的计算公式展开后:
+
+![](http://latex.codecogs.com/gif.latex?f(t)),g(t)\right\rangle⟨f(t),g(t)⟩是两个函数的内积,||f(t)||∣∣f(t)∣∣是函数f(t)f(t)的模,按照内积和模的计算公式展开后:
